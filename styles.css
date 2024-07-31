@@ -1,13 +1,11 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
+
 body {
   font-family: Arial, sans-serif;
 }
 
-h1 {
+h1, h2, h3 {
   color: #2c3e50;
-}
-
-h2 {
-  color: #e74c3c;
 }
 
 nav a {
@@ -15,5 +13,35 @@ nav a {
 }
 
 nav a:hover {
+  color: #e74c3c;
+}
+
+img.profile {
+  border-radius: 50%;
+  max-width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-info {
+  text-align: center;
+}
+
+.profile-info h1 {
+  margin-top: 0.5em;
+}
+
+.profile-info p {
+  font-size: 1.2em;
+}
+
+.social-links a {
+  margin-right: 10px;
+  color: #2980b9;
+  text-decoration: none;
+}
+
+.social-links a:hover {
   color: #e74c3c;
 }
