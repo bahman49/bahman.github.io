@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "menu.html",
+    "href": "menu.html",
+    "title": "Our Menu",
+    "section": "",
+    "text": "Garlic Bread: Freshly baked garlic bread with a crispy crust and soft center.\nCaesar Salad: Crisp romaine lettuce tossed with Caesar dressing, croutons, and Parmesan cheese.\n\n\n\n\n\nGrilled Chicken: Juicy grilled chicken breast served with steamed vegetables and mashed potatoes.\nSpaghetti Carbonara: Classic Italian pasta with creamy sauce, pancetta, and Parmesan cheese.\n\n\n\n\n\nTiramisu: Traditional Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese.\nChocolate Cake: Rich and moist chocolate cake topped with chocolate ganache.\n\n\n\n\n\nCoffee: Freshly brewed coffee made from premium beans.\nRed Wine: A selection of fine red wines to complement your meal."
+  },
+  {
+    "objectID": "menu.html#appetizers",
+    "href": "menu.html#appetizers",
+    "title": "Our Menu",
+    "section": "",
+    "text": "Garlic Bread: Freshly baked garlic bread with a crispy crust and soft center.\nCaesar Salad: Crisp romaine lettuce tossed with Caesar dressing, croutons, and Parmesan cheese."
+  },
+  {
+    "objectID": "menu.html#main-courses",
+    "href": "menu.html#main-courses",
+    "title": "Our Menu",
+    "section": "",
+    "text": "Grilled Chicken: Juicy grilled chicken breast served with steamed vegetables and mashed potatoes.\nSpaghetti Carbonara: Classic Italian pasta with creamy sauce, pancetta, and Parmesan cheese."
+  },
+  {
+    "objectID": "menu.html#desserts",
+    "href": "menu.html#desserts",
+    "title": "Our Menu",
+    "section": "",
+    "text": "Tiramisu: Traditional Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese.\nChocolate Cake: Rich and moist chocolate cake topped with chocolate ganache."
+  },
+  {
+    "objectID": "menu.html#beverages",
+    "href": "menu.html#beverages",
+    "title": "Our Menu",
+    "section": "",
+    "text": "Coffee: Freshly brewed coffee made from premium beans.\nRed Wine: A selection of fine red wines to complement your meal."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Bahman’s Kitchen",
+    "section": "",
+    "text": "Welcome to Bahman’s Kitchen\nWelcome to our restaurant! We serve the best food in town. Check out our Menu and learn more About Us. For reservations, visit our Contact page."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "For reservations or inquiries, please contact us at:\n\nPhone: (123) 456-7890\nEmail: info@bahmankitchen.com\n\n\n\nWe are located at: 123 Foodie Lane, Frankfurt Oder\n\n\n\n\nMonday to Friday: 11:00 AM - 10:00 PM\nSaturday: 12:00 PM - 11:00 PM\nSunday: Closed\n\nWe look forward to welcoming you to Bahman’s Kitchen!"
+  },
+  {
+    "objectID": "contact.html#visit-us",
+    "href": "contact.html#visit-us",
+    "title": "Contact Us",
+    "section": "",
+    "text": "We are located at: 123 Foodie Lane, Frankfurt Oder"
+  },
+  {
+    "objectID": "contact.html#opening-hours",
+    "href": "contact.html#opening-hours",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Monday to Friday: 11:00 AM - 10:00 PM\nSaturday: 12:00 PM - 11:00 PM\nSunday: Closed\n\nWe look forward to welcoming you to Bahman’s Kitchen!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "Bahman’s Kitchen has been serving delicious food since 1990. Our chefs use only the freshest ingredients to create mouth-watering dishes that will leave you coming back for more.\n\n\nOur mission is to provide our customers with an unforgettable dining experience, combining exceptional food with outstanding service.\n\n\n\n\nChef John Doe: With over 20 years of experience, Chef John brings creativity and passion to our kitchen.\nManager Jane Smith: Jane ensures that every guest receives top-notch service and a warm welcome.\n\nWe look forward to serving you and making your visit memorable!"
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About Us",
+    "section": "",
+    "text": "Our mission is to provide our customers with an unforgettable dining experience, combining exceptional food with outstanding service."
+  },
+  {
+    "objectID": "about.html#our-team",
+    "href": "about.html#our-team",
+    "title": "About Us",
+    "section": "",
+    "text": "Chef John Doe: With over 20 years of experience, Chef John brings creativity and passion to our kitchen.\nManager Jane Smith: Jane ensures that every guest receives top-notch service and a warm welcome.\n\nWe look forward to serving you and making your visit memorable!"
+  }
+]
